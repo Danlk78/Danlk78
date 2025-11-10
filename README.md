@@ -33,7 +33,7 @@ Me enfoco en crear **automatizaciones y bots** para negocios, como:
 
 Si necesitas automatizaciones o un bot para tu negocio:
 
-📩 **gbraith21@gamil.com**  
+📩 **gbraith21@gmail.com**  
 🔗 GitHub: https://github.com/Danlk78
 
 ---
