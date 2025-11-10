@@ -23,7 +23,7 @@ Me enfoco en crear **automatizaciones y bots** para negocios, como:
 
 | Proyecto | Descripción | Código |
 |----------|-------------|--------|
-| 🤖 Telegram Task Bot | Bot para responder mensajes automáticamente y manipular archivos. | [Repositorio](https://github.com/TU-USUARIO/telegram-bot-respuestas) |
+| 🤖 Telegram Task Bot | Bot para responder mensajes automáticamente y manipular archivos. | [Repositorio](https://github.com/Danlk78/telegram-bot-respuestas) |
 | (Próximo) Web Scraper para negocios | Automatización para obtener datos de productos en tiendas. |🟡 Próximamente |
 | (Próximo) Bot para automatizar Google Sheets | Automatización para empresas | 🟡 Próximamente |
 
