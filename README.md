@@ -33,8 +33,8 @@ Me enfoco en crear **automatizaciones y bots** para negocios, como:
 
 Si necesitas automatizaciones o un bot para tu negocio:
 
-📩 **braith.programming@gmail.com**  
-🔗 GitHub: https://github.com/TU-USUARIO
+📩 **gbraith21@gamil.com**  
+🔗 GitHub: https://github.com/Danlk78
 
 ---
 
